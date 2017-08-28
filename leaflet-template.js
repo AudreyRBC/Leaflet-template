@@ -61,9 +61,9 @@ function create_markers(map){
 function template_pop_up(){
   const pop_up = '<div class="pop-up">'
                   + '<div>'
-                      +'<p class="uk-article-title">Chimay</p>'
-                      + '<p class="p-small">1 Place Léopold</p>'
-                      + '<p class="p-small">6460 Chimay</p>'
+                      +'<p>Chimay</p>'
+                      + '<p>1 Place Léopold</p>'
+                      + '<p>6460 Chimay</p>'
                   +'</div>'
                   +'<a href="#"> See more </a>'
                 +'</div>';
