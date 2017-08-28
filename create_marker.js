@@ -2,7 +2,7 @@ import {template_pop_up} from './template-popup.js';
 import {event_marker} from './events_marker.js';
 
 const icon_url = "dist/images/pin.svg";
-const icon_size = [38, 95];
+const icon_size = [38, 95]; 
 const icon_anchor = [22, 94];
 const pop_up_position = [-3, -76];
 
